@@ -6,8 +6,8 @@ Favor navegar entre as pastas para acessar os conteúdos.
 
 ## 📝 Sumário
 
-1. [Transcrevendo uma Imagem em Texto com AWS Textract](https://github.com/wilsondesouza/analise-imagens/tree/main/aws_textract)
-2. [Detectando Celebridades em Imagens com AWS Rekognition](https://github.com/wilsondesouza/analise-imagens/tree/main/aws-rekognition)
+1. [Transcrevendo uma Imagem em Texto com AWS Textract](https://github.com/wilsondesouza/analise-imagens/tree/master/aws_textract/ocr_lista-escolar)
+2. [Detectando Celebridades em Imagens com AWS Rekognition](https://github.com/wilsondesouza/analise-imagens/tree/master/aws-rekognition/reconhecimento-celebridades)
 
 ## 🔎 Saiba Mais
 Navegar entre as pastas para acessar cada projeto com sua própria documentação.
